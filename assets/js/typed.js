@@ -1,8 +1,8 @@
 const typed = new Typed(".typing-job", {
   strings: [
-    "QA Automation Engineer",
-    "API & Integration Testing",
-    "Performance & Security Testing"
+    "Software Engineer in Test",
+    "Backend Test Automation (Golang / Java)",
+    "Quality Engineering with a Security Lens"
   ],
   typeSpeed: 100,
   loop: true,

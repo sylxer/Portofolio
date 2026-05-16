@@ -173,8 +173,8 @@ span {
 /* About Section */
 
 .about {
-  min-height: 100vh;
   background-color: #222831;
+  padding-bottom: 3rem;
 }
 
 .about .container {
